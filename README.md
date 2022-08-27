@@ -1,18 +1,18 @@
 ### Hi there 👋
 
+I am **Elie Muluke** and I am a **fullstack** software developer.
 
-**ElieMuluke/ElieMuluke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 Visit my [website portfolio](https://eliemuluke.github.io/myPortfolio/) for more details on my skills, projects and contact.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Flutter Mobile Development.
+- 😄 Pronouns: He, Him
+- 😀 I like to game, watch anime, listen to music, play sports, code and read in my free time.
+- ⚡ Fun fact: My First line of code was not "Hello World".
+- 💬 Ask me about gaming and game development.
 
 ### Github Stats
-[![Elie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElieMuluke&show_icons=true&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
+
+<div style="display:flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ElieMuluke&show_icons=true&theme=city_lights">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ElieMuluke&show_icons=true&theme=city_lights">
+</div>
