@@ -4,7 +4,7 @@
 
 ---
 
-<img src="./Software.gif" width="100%" height="30%">
+![Header](./github-header-image.png)
 
 - 📫 Visit my **[website portfolio](https://eliemuluke.github.io/myPortfolio/)** for more details on my skills, projects and contact.
 
