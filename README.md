@@ -6,7 +6,7 @@
 
 # Hi there &lt;developers/&gt;!👋
 
-<center style="text-align:center;font-size:2rem;">I am <span style="font-weight:bold;">Elie Muluke</span> and I am a <span style="font-weight:bold;">software developer.</span> </center>
+<center style="text-align:center;font-size:3rem;">I am <span style="font-weight:bold;">Elie Muluke</span> and I am a <span style="font-weight:bold;">software developer.</span> </center>
 
 ![Header](./github-header-image.png)
 
