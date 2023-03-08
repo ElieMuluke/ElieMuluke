@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,java,cs,nodejs,express,react,python,php,dart,flutter,ts,mongo,mysql,unity,git,github,netlify,heroku,idea,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,java,cs,nodejs,express,react,python,php,dart,flutter,ts,mongo,mysql,unity,git,github,netlify,heroku,idea,vscode,vercel" />
   </a>
 </p>
 
