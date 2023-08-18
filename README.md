@@ -13,13 +13,12 @@
 
 - 📫 Visit my **[website portfolio](https://eliemuluke.me)** for more details on my skills, projects and contact.
 
-- 🌱 I’m currently learning **Flutter Mobile Development**.
+- 🌱 I’m currently learning **Flutter Mobile Development** and **AI Engineering**.
 - 🤓 I’m a passionate learner and always looking to learn new things.
 - 👯 I’m looking to collaborate on **closed** and **open** source projects.
-- 😄 Pronouns: **He** | **Him** | **His**
-- 😀 I like to **code**, **play sports**, **gym**, **game**, **watch anime**, **listen to music**, and **read** in my free time.
+- 😀 Balancing **coding** with a mix of **sports**, **gym sessions**, **gaming**, **anime binging**, **music**, and **reading** in my free time.
 - ⚡ Fun fact: My First line of code was not "**Hello World**".
-- 💬 Ask me about programming, concepts on how a specific software could have been built, and my advice it I was to go back to when I started.
+- 💬 Feel free to reach out for discussions on **programming**, **brainstorming software architectures**, or **seeking advice from my journey**.
 
 ---
 <div align="center">
