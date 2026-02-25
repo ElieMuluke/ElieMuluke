@@ -5,7 +5,7 @@
 </p>
 
 # Hi there &lt;developers/&gt;!👋
-<center style="text-align:center;font-size:4rem;">I am <span style="font-weight:bold;">Elie Muluke</span> and I am a <span style="font-weight:bold;">I am a Backend & AI Engineer. MSc Applied AI at the University of Warwick. ✅</span> </center>
+<center style="text-align:center;font-size:4rem;">I am <span style="font-weight:bold;">Elie Muluke</span> and I am a <span style="font-weight:bold;">I am a Backend & AI Engineer. MSc Applied AI at the University of Warwick.</span> </center>
  <br/>
  <br/>
 
