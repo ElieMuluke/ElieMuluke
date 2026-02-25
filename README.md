@@ -11,7 +11,7 @@
 
 ![Header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
-- 📫 Visit my **[website portfolio](https://elie-muluke-portfolio-ilg52fh69-eliemulukes-projects.vercel.app/)** for more details on my skills, projects and contact.
+- 📫 Visit my **[Portfolio website](https://elieyenemuluke.dev)** for more details on my skills, projects and contact.
 
 - 🌱 I’m currently learning **Flutter Mobile Development** and **AI Engineering**.
 - 🤓 I’m a passionate learner and always looking to learn new things.
