@@ -5,8 +5,9 @@
 </p>
 
 # Hi there &lt;developers/&gt;!👋
-
-<center style="text-align:center;font-size:4rem;">I am <span style="font-weight:bold;">Elie Muluke</span> and I am a <span style="font-weight:bold;">I am a Full-stack Software Developer ✅</span> </center>
+<center style="text-align:center;font-size:4rem;">I am <span style="font-weight:bold;">Elie Muluke</span> and I am a <span style="font-weight:bold;">I am a Backend & AI Engineer. MSc Applied AI at the University of Warwick. ✅</span> </center>
+ <br/>
+ <br/>
  <br/>
 
 ![Header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
